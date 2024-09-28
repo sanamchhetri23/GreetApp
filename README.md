@@ -1,2 +1,2 @@
 # GreetApp
-A simple Greet me Application. This application extract the text from textfield and add it to the label when the button is clicked
+A basic "Greet Me" app: it takes the input from a text field and displays it on a label when the button is pressed.
